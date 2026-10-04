@@ -81,6 +81,7 @@ Leveling up in 2026 — learning by shipping, not by tutorial-hoarding:
 
 <a href="mailto:liurey55@gmail.com"><img src="https://img.shields.io/badge/email-liurey55%40gmail.com-ff8a3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Reyonl"><img src="https://img.shields.io/badge/github-Reyonl-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://reyonlau.vercel.app"><img src="https://img.shields.io/badge/portfolio-reyonlau.vercel.app-ff8a3d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.instagram.com/reyonlau_/"><img src="https://img.shields.io/badge/instagram-@reyonlau_-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 > ⚡ Open to work — fresh graduate (07/2026), looking for junior backend / full-stack roles (Laravel-first).
