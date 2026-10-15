@@ -86,5 +86,11 @@ Leveling up in 2026 — learning by shipping, not by tutorial-hoarding:
 
 > ⚡ Open to work — fresh graduate (07/2026), looking for junior backend / full-stack roles (Laravel-first).
 
+### 💌 Side project — SayWed
+
+<a href="https://saywed.my.id"><img src="https://img.shields.io/badge/saywed-saywed.my.id-ff8a3d?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SayWed" /></a>
+
+**SayWed** — platform undangan pernikahan digital (website) dengan katalog tema, RSVP & buku tamu WhatsApp 1-klik, amplop digital + QRIS, dan musik latar. Cek katalog demo langsung di [saywed.my.id](https://saywed.my.id).
+
 <!-- snake, generated nightly by Reyonl/snk — the quiet bitmap of commits -->
 <img src="https://reyonl.github.io/snk/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
