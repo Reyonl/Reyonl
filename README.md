@@ -12,10 +12,10 @@ no recycled templates. Junior on purpose, honest by default.
 ### 🛰️ Live stats *(rendered by github-readme-stats, updates itself)*
 
 <a href="https://github.com/Reyonl">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Reyonl&theme=dark&hide_border=true&bg_color=0d1117&color=e9edf3&title_color=ff8a3d&icon_color=ff8a3d&hide=stars&count_private=true" alt="GitHub stats" />
+  <img align="left" width="400" src="https://github-readme-stats-fast.vercel.app/api?username=Reyonl&theme=dark&hide_border=true&bg_color=0d1117&color=e9edf3&title_color=ff8a3d&icon_color=ff8a3d&hide=stars&count_private=true" alt="GitHub stats" />
 </a>
 <a href="https://streak-stats.demolab.com/?user=Reyonl">
-  <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Reyonl&theme=dark&hide_border=true&background=0d1117&stroke=1d2430&ring=ff8a3d&fire=ff8a3d&currStreakLabel=e9edf3" alt="Contribution streak" />
+  <img align="right" width="400" src="https://streak-stats.demolab.com/?user=Reyonl&theme=dark&hide_border=true&background=0d1117&stroke=1d2430&ring=ff8a3d&fire=ff8a3d&currStreakLabel=e9edf3" alt="Contribution streak" />
 </a>
 
 <br /><br /><br /><br /><br /><br />
@@ -26,24 +26,24 @@ no recycled templates. Junior on purpose, honest by default.
   <tr>
     <td width="50%">
       <a href="https://github.com/Reyonl/portofolio-v2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reyonl&repo=portofolio-v2&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="portofolio-v2" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Reyonl&repo=portofolio-v2&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="portofolio-v2" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Reyonl/project_TA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reyonl&repo=project_TA&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="DAILY.CO" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Reyonl&repo=project_TA&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="DAILY.CO" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Reyonl/rekapan_bukunota">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reyonl&repo=rekapan_bukunota&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="Warung Lupi web" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Reyonl&repo=rekapan_bukunota&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="Warung Lupi web" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Reyonl/flutter-warungLupi-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reyonl&repo=flutter-warungLupi-&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="Warung Lupi Flutter" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=Reyonl&repo=flutter-warungLupi-&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d&icon_color=8b94a4" alt="Warung Lupi Flutter" />
       </a>
     </td>
   </tr>
@@ -67,7 +67,7 @@ Leveling up in 2026 — learning by shipping, not by tutorial-hoarding:
 <summary>📊 language breakdown (live from my public repos)</summary>
 <br/>
 <a href="https://github.com/Reyonl">
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyonl&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d" alt="Top languages" />
+  <img width="340" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Reyonl&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff8a3d" alt="Top languages" />
 </a>
 </details>
 
